@@ -1,0 +1,120 @@
+/* 
+    Handcoded by JAC - Johnny Alimoot C.
+*/
+@font-face {
+    font-family: 'damion';
+    src: url('../font/Damion.ttf');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'nunito';
+    src: url('../font/Nunito-Regular.ttf');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'nunito';
+    src: url('../font/Nunito-Bold.ttf');
+    font-weight: bold;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'nunito';
+    src: url('../font/Nunito-Italic.ttf');
+    font-style: italic;
+    font-display: swap;
+}
+
+.ff-damion{
+    font-family: 'damion';
+    font-weight: normal !important;
+}
+
+.fc-white{
+    color: var(--textWhite);
+}
+
+.fc-primary{
+    color: var(--primaryColor);
+}
+
+.fw-normal{
+    font-weight: normal !important;
+}
+.fw-bold{
+    font-weight: bold !important;
+}
+
+.ta-center{
+    text-align: center;
+}
+.titillium-web-extralight {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+.titillium-web-light {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+.titillium-web-regular {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.titillium-web-semibold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+.titillium-web-bold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+.titillium-web-black {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+.titillium-web-extralight-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+.titillium-web-light-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+.titillium-web-regular-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+.titillium-web-semibold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+.titillium-web-bold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+.audiowide-regular {
+    font-family: "Audiowide", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
